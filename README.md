@@ -1,5 +1,5 @@
-# Myself-Development
-Here I will post my projects carried out during the Data Science Degree at Let's Code, in order to show you my development and how I apply the teachings I have been learning.
+# My personal development
+Here I present some small projects that I did along my path as a beginner programmer. I'm taking classes at EBAC - Escola Britânica de Artes Criativas & Tecnologia, Back-End Python course. So here will be posted some projects I've done as a portfolio to show what I've learned, in addition to other projects I've done as a personal challenge.
 
 Projeto 1 was the first project I've worked. It is a Hangman Game - with just portuguese words only - very fun and just a little bit hard. Remember you must download the archive 'bancoPalavras.txt' and save it at the same file you saved the main archive.
 
