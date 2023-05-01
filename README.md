@@ -5,8 +5,4 @@ Projeto 1 was the first project I've worked. It is a Hangman Game - with just po
 
 Projeto 2 is a tricky Tic-Tac-Toe game: run it and try to win. Spoiler: you will not.
 
-Projeto 3 (WIP)
-
-Projeto 4 (WIP)
-
-Projeto 5 is about data visualization. Using Pandas, Seaborn, Matplotlib and Plotly, the aim of this project is to demonstrate the required information in clear and understandable graphics.
+Projeto 3 is about data visualization. Using Pandas, Seaborn, Matplotlib and Plotly, the objective of this project is to demonstrate the required information in clear and understandable graphics.
